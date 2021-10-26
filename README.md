@@ -9,3 +9,5 @@ Se realiza la primer corrida en Python, mismo que se puede descargar y correr co
 
 ###
 Siéntete libre de hacer "fork" para jugar con él o contribuir libremente en cualquier otro sabor de programación.
+
+Recuerda que si puedes imaginarlo, ¡PUEDES PROGRAMARLO!
